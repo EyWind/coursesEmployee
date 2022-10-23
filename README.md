@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Employees
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Part of the "JS+React" program.
+
+## Description
+
+Simple react Application. main goal is to understand base principles of react.
+
+### Dependencies
+
+* was created with base CRA, and some simple styles from bootstrap, react v17 was used.
+
+## Note
+
+-
+
+
+
+### Additional info for CRA
 
 ## Available Scripts
 
